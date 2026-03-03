@@ -1,0 +1,392 @@
+Welcome to SOC 170 
+Sit on the bottom, not the balcony
+Nick Mark
+Assistant Professor, Sociology
+
+---
+Demography: The Study of Population
+
+---
+What 
+topics are 
+we going 
+to cover?
+1. Population Frameworks + Change
+2. Population Health + Aging
+3. Migration
+
+---
+Inequality:
+1)Causes of Racial Inequality
+•  Historical and Contemporary 
+2)Consequences of Inequality
+• Health, Economy, Population
+3)Role of Migration
+Foundation: Understanding the 
+formation of “race” as a concept  
+
+---
+What is on Canvas Lecture Pages?
+•
+Lecture synopsis
+•
+Assigned readings and viewings
+•
+Concepts to know
+
+---
+
+---
+Course Expectations & Assessment
+•
+READ course materials, Attend Lecture and Respond 
+ 
+Slides posted 1 week before exam, Within-lecture question: 
+
+---
+Course Expectations & Assessment
+•
+READ course materials, Attend Lecture and Respond
+ 
+Slides posted 1 week before exam, Within-lecture question: 
+
+---
+Question:  
+Which do you think is more 
+important for a society in the long 
+run, the size of the population or the 
+rate of change? Explain your answer 
+in 1 sentence.
+
+---
+Question:  
+Which do you think is more 
+important for a society in the long 
+run, the size of the population or the 
+rate of change? Explain your answer 
+in 1 sentence.
+Email Address and Timestamp 
+recorded and used to grade
+
+---
+Course Expectations & Assessment
+•
+READ course materials, Attend Lecture and Respond
+ 
+Slides posted 1 week before exam, Within-lecture question: 
+•
+Attend Class
+ 
+Attend class and participate in discussion (20%) 
+ 
+Doesn’t just mean talking every class – thoughtful, respectful engagement is key
+•
+Write and apply critical thinking
+ 
+Two writing assignments (450 words each, 20% total)
+
+---
+AI Expectations
+AI on its own produces mediocre work. 
+Simply copy/pasting will result in poor grades. 
+Do your own thinking for a better grade. 
+
+---
+Course Expectations & Assessment
+•
+READ course materials, Attend Lecture and Respond
+ 
+Slides posted 1 week before exam, Within-lecture question: 
+•
+Attend Class
+ 
+Attend class and participate in discussion (20%) 
+ 
+Doesn’t just mean talking every class – thoughtful, respectful engagement is key
+•
+Write and apply critical thinking
+ 
+Two writing assignments (450 words each, 20% total)
+•
+Complete exams
+ 
+Midterm exam (20%), final exam (25%)
+•
+Engage, Reflect, and Respond
+ 
+Extra credit up to 1 percentage point to final grade
+
+---
+Extra Credit: Example
+February 3rd, 2026
+Jessica Faul(University of Michigan), 
+“What We Learn by Adding Biological Measurement to an Interdisciplinary, 
+Longitudinal, Social Science Survey: DNA Methylation Research in the 
+Health and Retirement Study.”
+Co-sponsored by the Department of Population Health Sciences.
+1) Attend
+2) Take a picture of the speaker
+3) Write <500 words:
+1) Summarize the talk.
+2) What is something new that you learned?
+
+---
+Meet your TAs, 
+Hanbi and 
+Bijoyetri
+
+---
+Who should I talk to?
+Administrative needs (section changes, for example)
+◦Ted Babcock, Sociology Admin – ted.babcock@wisc.edu, please cc your TA
+◦There is an app specifically for section changes – makes it very easy:
+◦https://sociology.wisc.edu/undergraduate-program/sociology-enrollment-help/#changing-sections
+Course Logistics (McBurney accommodations, dates, office hours, etc.)
+◦Syllabus and Canvas, then your TA (your TA will communicate with me if they don’t know)
+Course Content (confused about a topic?)
+◦Canvas, then discussion materials, then classmates, then your TA, then Nick (after class or office hours)
+Discussion Section Absence
+◦You TA, ahead of your absence unless it is an emergency
+
+---
+What do I need to do now?
+1. McBurney Accommodations – complete by second week of class
+2. Complete the Syllabus Quiz by Tuesday, Jan 27, 9:55 a.m.
+3. Before Tuesday’s lecture:
+ 
+Do the assigned readings for lecture 1.2 (only read the sections in boldface)
+ 
+Complete the reading quiz before 9:55am, Sept 10. 
+4. Mark our exams in your calendar! Both in class.
+ 
+Exam 1 - Thursday March 3rd 9:55am – 10:45am
+ 
+Exam 2 - Thursday April 30the 9:55am – 10:45am
+
+---
+What is Population Thinking?
+
+---
+What is Population Thinking?
+• Population Basics
+• Population Equations
+• Demographic Rates
+
+---
+What is a population?
+• Empirical: Collection of people alive at a specified 
+point in time who meet certain criteria
+• Population of Wisconsin on July 1, 2021 ( 5,895,908 people)
+• Population of UW students on September 5, 2023 (50,662)
+• Conceptual: Collectivity of people that persists 
+over time even though its members are always 
+changing
+• The “population of Wisconsin”
+
+---
+What’s important about a population?
+1. Size
+
+---
+What’s important about a population?
+1. Size
+2. Composition
+
+---
+What’s important about a population?
+1. Size
+2. Composition
+3. Distribution
+population cartogram: 
+size of shapes determined by population
+
+---
+What’s important about a population?
+Source: Karim Douieb - https://observablehq.com/@karimdouieb/try-to-impeach-this-challenge-accepted
+1. Size
+2. Composition
+3. Distribution
+
+---
+What’s important about a population?
+1. Size
+2. Composition
+3. Distribution
+4. Dynamics
+
+---
+Contrast:
+ Growth vs.
+ Growth RATE 
+
+---
+Question:  
+Which do you think is more 
+important for a society in the long 
+run, the size of the population or the 
+rate of change? Explain in 1 
+sentence.
+
+---
+Question:  
+Which do you think is more 
+important for a society in the long 
+run, the size of the population or the 
+rate of change? Explain your answer 
+in 1 sentence.
+https://tinyurl.com/jan20soc170
+
+---
+Growth Balance Equation
+PopulationT2  =  PopulationT1 +  B  –  D  +  I  -  O  +  e
+Natural Increase/decrease
+Net Migration
+
+---
+Demographic Rates
+What event are we measuring? Over what time period?
+             → This is the numerator of the rate
+Who is in the population?
+  
+→ This is the denominator of the rate
+𝑵𝒖𝒎𝒃𝒆𝒓 𝒐𝒇 𝑬𝒗𝒆𝒏𝒕𝒔 𝒊𝒏 𝑻𝒊𝒎𝒆 𝑷𝒆𝒓𝒊𝒐𝒅
+𝑷𝒐𝒑𝒖𝒍𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑻𝒊𝒎𝒆 𝑷𝒆𝒓𝒊𝒐𝒅
+
+---
+Calculating Marriage Rate
+Marriage Rate = number of marriages/number of residents
+
+---
+Rate of Population Growth
+P2 – P1 = Births – Deaths + Net Migration
+P1
+P1
+P1
+P1
+Rate of 
+population 
+growth
+Birth 
+rate
+Death 
+rate
+Rate of net 
+migration
+
+---
+Better rates:
+In a crude rate the denominator is the total number of people. 
+But we can define the denominator more precisely!
+Who is at risk of experiencing an event over this time period?
+◦How many people are in the population who could actually 
+experience the event? (ex: Can babies get married?)
+◦What portion of the time period do they spend in the population 
+before they experience the event?
+
+---
+Calculating Crude Marriage Rate 
+| -----------------------------------------One Year --------------------------------------|
+Demographic Event: 
+ 
+Marriage
+Number of events:
+ 
+Population Size:
+ 
+Crude Marriage Rate:
+ 
+ 
+
+---
+Calculating Crude Marriage Rate 
+| -----------------------------------------One Year --------------------------------------|
+Demographic Event: 
+ 
+Marriage
+Number of events:
+ 
+Population Size:
+ 
+Crude Marriage Rate:
+ 
+ 
+Marriage #1
+Marriage #2
+A
+B
+C
+E
+D
+
+---
+Calculating Crude Marriage Rate 
+| -----------------------------------------One Year --------------------------------------|
+Demographic Event: 
+ 
+Marriage
+Number of events:
+ 
+2
+Population Size:
+ 
+5
+Crude Marriage Rate:
+ 
+2/5
+ 
+Marriage #1
+Marriage #2
+A
+B
+C
+E
+D
+
+---
+Marriage Rate=
+Number of events/number of person-years at risk 
+| -----------------------------------------One Year --------------------------------------|
+1.0
+0.5
+0.25
+0.25
+0.75
+Number of events = 2
+Number of person-years at risk = 
+1 + .5 + .25 + .25 +.25 + .75 = 3
+Rate = 2 marriages / 3 person-years
+0.25
+
+---
+Different Rates Can Tell Different Stories
+Crude mortality rate
+(# deaths/# people)
+Japan: 11.7
+ 
+ 
+USA: 8.4 
+ 
+ 
+ 
+
+---
+Different Rates Can Tell Different Stories
+Life Expectancy 
+(Age-Adjusted Mortality Rate)
+Japan: 85
+USA: 77
+Crude mortality rate
+(# deaths/# people)
+Japan: 11.7
+ 
+ 
+USA: 8.4 
+ 
+ 
+ 
+
+---
+Throughout the semester:
+You will learn how demographers   
+
+---

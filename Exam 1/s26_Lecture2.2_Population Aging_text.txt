@@ -1,0 +1,452 @@
+The Problem of 
+Population Aging
+What is Age?; Aging vs Longevity; Social Costs and Social Solutions
+Lecture 2.2 – Feb 24th, 2026
+
+---
+For today
+• Midterm here next Tuesday! 
+• Slides are posted (today’s will be shared right after class)
+Roadmap today:
+Three different ways of thinking about aging
+Three Ways of Measuring Aging
+Causes of Aging
+Costs of Aging
+Solutions for the costs of aging (and 4 considerations about those solutions)
+
+---
+Age vs Age vs Age
+• Chronological Age
+• Biological Age
+• Sociological Age
+
+---
+Age vs Age vs Age
+• Chronological Age
+• How many calendar-years of life a person has been alive.
+• Most typical conception of age
+• Biological Age
+• Sociological Age
+
+---
+Age vs Age vs Age
+• Chronological Age
+• “How old are you?”
+• Biological Age
+• “You look good for your age!”
+• Sociological Age 
+
+---
+Age vs Age vs Age
+• Chronological Age
+• Biological Age
+• Combines information from multiple physiological systems to estimate 
+individual’s positions on aging trajectory
+• Calculated from biomarkers – measures of metabolic, cardiovascular, 
+inflammatory, kidney, liver, and lung functioning
+• Related to mortality risk, biological functioning
+• Influenced by environment (e.g. pollution), behavior (e.g. smoking), genetics, 
+random variation
+• Sociological Age
+
+---
+Source: Levine 
+and Crimmins 
+2019
+
+---
+Measuring biological age
+• Not an exact science 
+– lots of debate
+• “Telomere length” is 
+one measure
+
+---
+Age vs Age vs Age
+• Chronological Age
+• Biological Age
+• Sociological Age
+• Societal expectations associated 
+with a certain chronological age
+• Varies across societies
+• ie: appropriate age for marriage
+• Subjective Age:
+• Self expectations for a given given age
+
+---
+Age vs Age vs Age
+• Chronological Age
+• “How old are you?”
+• Biological Age
+• “You look good for your age!”
+• Sociological Age 
+• “You shouldn’t do that at your age!”
+• These ideas have society-wide 
+consequences (family formation, 
+fertility, etc)
+• (subjective age)
+• “I should … by now!”
+
+---
+Age vs Age vs Age
+• Chronological Age
+• “How old are you?”
+• Biological Age
+• “You look good for your age!”
+• Sociological Age 
+• “You shouldn’t do that at your age!”
+• These ideas have society-wide 
+consequences (family formation, 
+fertility, etc)
+• (subjective age)
+• “I should … by now!”
+
+---
+Age vs Age vs Age
+• Chronological Age
+• “How old are you?”
+• Biological Age
+• “You look good for your age!”
+• Sociological Age 
+• “You shouldn’t do that at your age!”
+• These ideas have society-wide 
+consequences (family formation, 
+fertility, etc)
+• (subjective age)
+• “I should … by now!”
+
+---
+Population Aging: Three Ways of Measuring
+• Increase in median age
+• line everyone up, what is age of person right in the middle
+• Median age increases as populations age 
+
+---
+Sources: U.S. Census Bureau, CIA World Factbook
+
+---
+National 
+Median:
+39.2
+
+---
+
+---
+Population Aging: Three Ways of Measuring
+• Increase in median age
+• line everyone up, what is age of person right in the middle
+• Median age increases as populations age 
+• Increases in those aged over 65, or, over the working 
+age population.
+• Change in share of older adults.
+
+---
+U.S. 14.9% 
+(48th)
+U.S. 22.1% 
+(85th)
+
+---
+
+---
+
+---
+Population Aging: Three Ways of Measuring
+• Increase in median age
+• line everyone up, what is age of person right in the middle
+• Median age increases as populations age 
+• Increases in those aged over 65, or, over the working age 
+population.
+• Change in share of older adults.
+• Changes in “Healthy” Life Expectancy
+• Expansion or Compression of Mortality
+
+---
+At the population level:
+“Healthy” Life Expectancy
+• Expected years of life lived in good health
+• Often based on measures of functional limitation that are 
+sufficient to impair daily activities:
+• E.g. standing, getting dressed, preparing food
+• Morbidity = prevalence of disease in a population
+• Could be measured as: physical dysregulation, disease onset, 
+functional limitations
+
+---
+Disability-Adjusted Life 
+Expectancy Rankings by 
+State 
+
+---
+Compression vs. Expansion of Morbidity
+• If there is compression of morbidity – Chronological age is increasing 
+slower than biological age (or biological age is decreasing)
+
+---
+Compression vs. Expansion of Morbidity
+• If there is compression of morbidity – Chronological age is increasing 
+slower than biological age (or biological age is decreasing)
+
+---
+Compression vs. Expansion of Morbidity
+• If there is expansion of morbidity – Chronological age is increasing 
+faster than biological age is decreasing (or biological age is increasing)
+
+---
+Compression vs. Expansion of Morbidity
+• If there is expansion of morbidity – Chronological age is increasing 
+faster than biological age is decreasing (or biological age is increasing)
+
+---
+Aging vs Longevity Effects on prevalence of 
+health issues
+• “Aging effect” = increases in morbidity + mortality caused by increased 
+median chronological age of a population
+• As people are older, health issues become more common
+• Mortality increases, but not for bad reasons!
+
+---
+Aging vs Longevity Effects on prevalence of 
+health issues
+• “Aging effect” = increases in morbidity + mortality caused by increased 
+median chronological age of a population
+• As people are older, health issues become more common
+• Mortality increases, but not for bad reasons!
+• Longevity effect = Decreased median biological age of a population 
+improves health
+• Population health is improving! Mortality is declining!
+• “75 is the new 65”
+• Reduces prevalence of health issues (all else equal)
+
+---
+Aging and Longevity Effects Can Offset
+Same # of healthy years!
+Same # of healthy years!
+
+---
+Is the increase in 
+the global 
+prevalence of 
+Alzheimer’s 
+disease due to an 
+aging effect or a 
+longevity effect?
+Crude rate
+
+---
+Is the increase in 
+the global 
+prevalence of 
+Alzheimer’s 
+disease due to an 
+aging effect or a 
+longevity effect?
+Crude rate
+Age-standardized rate
+After controlling for the changing 
+global age structure, the prevalence 
+of Alzheimer’s disease and other 
+dementias has been relatively stable 
+since 1990
+
+---
+What causes population aging?
+• Improved survival at older ages
+
+---
+What causes population aging?
+• Improved survival at older ages
+• Declines in fertility
+
+---
+What causes population aging?
+• Improved survival at older ages
+• Declines in fertility
+• Migration
+• Immigration typically at working ages
+• Migration away from aging places toward cities with more jobs
+
+---
+Population Aging: Potential Costs
+• Economic
+•  unfunded support systems for the elderly
+• Or, increased funding to aged means less funding elsewhere.
+•  economic burden on young workers (taxes, caregiving, etc.)
+•  slowing economic growth
+• Non-economic
+•  less innovation, more risk-aversion
+•  weaker security relative to younger nations
+
+---
+How does the age distribution of the U.S. influence 
+the LFPR? (Labor Force Participation Rate)
+
+---
+2005
+2019
+
+---
+Dependency Ratios: China
+Blue = Total DR
+Red = Child DR
+Green = Old Age DR
+Demographic 
+Dividend
+2010: 5.4 working 
+   age adults per    
+   elderly person
+
+---
+Dependency Ratios: China
+Blue = Total DR
+Red = Child DR
+Green = Old Age DR
+Demographic 
+Implosion
+2010: 5.4 working 
+   age adults per    
+   elderly person
+2030: 2.5
+2050: 1.6
+
+---
+Population Aging: Potential Solutions
+• Work in later life
+• Reduce pensions
+• Labor and finance policy
+• Increase immigration
+• Increase fertility
+BBC, January 31, 2023
+
+---
+Population Aging: Potential Solutions
+• Work in later life
+• Reduce pensions
+• Labor and finance policy
+• Increase immigration
+• Increase fertility
+BBC, January 31, 2023
+
+---
+Four considerations about solutions
+• Pace
+• Socioeconomic inequality
+• Geography
+• Generational equity
+
+---
+Four considerations about solutions: PACE
+• Pace
+• How soon do we need to address 
+the issue?
+• Which spaces are going to have 
+issues soonest?
+• Socioeconomic inequality
+• Geography
+• Generational equity
+
+---
+Pace also depends on immigration 
+policy
+
+---
+
+---
+• Pace
+• Socioeconomic inequality
+• Are there disparate effects for 
+different groups in the population?
+• How does the solution influence 
+current income disparities?
+• Geography
+• Generational equity
+Four considerations about solutions: Inequality
+
+---
+Four considerations about solutions: Geography
+• Pace
+• Socioeconomic inequality
+• Geography
+• Where are older people 
+living?
+• Where will populations be 
+older in the future?
+• Where are older people 
+with less savings living?
+• Generational equity
+
+---
+Four considerations about solutions: Geography
+• Pace
+• Socioeconomic inequality
+• Geography
+• Where are older people 
+living?
+• Where will populations be 
+older in the future?
+• Where are older people 
+with less savings living?
+• Generational equity
+
+---
+Four considerations about solutions: Geography
+• Pace
+• Socioeconomic inequality
+• Geography
+• Where are older people 
+living?
+• Where will populations be 
+older in the future?
+• Where are older people 
+with less savings living?
+• Generational equity
+
+---
+Four considerations about solutions: Geography
+• Pace
+• Socioeconomic inequality
+• Geography
+• Where are older people 
+living?
+• Where will populations be 
+older in the future?
+• Where are older people 
+with less savings living?
+• Generational equity
+
+---
+Remember: 
+Popt2 = Popt1+Births-Deaths+Migration+e
+
+---
+Four considerations about solutions: Geography
+• Pace
+• Socioeconomic inequality
+• Geography
+• Where are older people 
+living?
+• Where will populations be 
+older in the future?
+• Where are older people 
+with less means living?
+• Generational equity
+
+---
+Four considerations about solutions: 
+Generational Equity
+• Pace
+• Socioeconomic inequality
+• Geography
+• Generational equity
+• In a given time period, the 
+enactment of age-based policies 
+affects specific birth cohorts
+• Age-based policies implicitly 
+redistribute public goods from one 
+cohort to a different cohort
+• If a policy changes, redistribution 
+may penalize specific cohorts
+
+---
+
+---

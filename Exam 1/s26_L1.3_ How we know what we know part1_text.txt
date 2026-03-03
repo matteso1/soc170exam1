@@ -1,0 +1,375 @@
+How do we know what we know 
+about populations?
+Lecture 1.3, Jan 27th, 2026
+Census Data, Vital Records, Immigration
+
+---
+Motivation: 
+Who cares how we measure populations?
+•
+Anyone interested in allocation of resources
+•
+Businesses looking to invest (should I build an apartment 
+building here? Open a grocery store there?)
+•
+Governments thinking about the future (School here? 
+Hospital there? How many old people need SSA?)
+•
+Investors thinking about a stock market portfolio (which 
+demographics are growing, and which companies sell 
+things to them?)
+
+---
+Motivation: 
+Who cares how we measure populations?
+•
+Anyone interested in allocation of resources
+•
+Businesses looking to invest (should I build an apartment 
+building here? Open a grocery store there?)
+•
+Governments thinking about the future (School here? 
+Hospital there? How many old people need SSA?)
+•
+Investors thinking about a stock market portfolio (which 
+demographics are growing, and which companies sell 
+things to them?)
+•
+Data are inherently political
+•
+Data have political uses
+
+---
+What happens when we undercount?
+
+---
+So how do we count?
+
+---
+Recall: Growth Balance Equation
+PopulationT2  =  PopulationT1 +  B  –  D  +  I  –  O
+Each piece of the equation has to be counted 
+Natural Increase
+Net Migration
+
+---
+Where does population data come from?
+•    Census
+• Full-count census every 10 years, mandated in the constitution
+P2 = P1 + B – D  + I – O 
+
+---
+US Constitution Article 1, Section 2
+amended by section 2 of the 14th amendment
+“Representatives shall be apportioned among the several States 
+according to their representative numbers, counting the whole number 
+of persons in each State, excluding Indians not taxed”
+Two big reasons this is in the constitution:
+1) Allocation of seats in for states House of Representatives
+2) Taxation + spending
+
+---
+Where does population data come from?
+•    Census
+• Full-count census every 10 years, mandated in the constitution
+• Other countries have something like it
+• Supplemented by more frequent surveys
+P2 = P1 + B – D  + I – O 
+
+---
+Where does population data come from?
+•    Census
+•    Vital registration system (birth certificate, death certificate)
+P2 = P1 + B – D  + I – O 
+
+---
+Where does population data come from?
+•    Census
+•    Vital registration system (birth certificate, death certificate)
+•    Government immigration records (visas granted, official entries)
+•    Indirect techniques
+•   Surveys
+•   Interpolation
+P2 = P1 + B – D  + I – O 
+
+---
+Where does population data come from?
+•    Census
+•    Vital registration system (birth certificate, death certificate)
+•    Government immigration records (visas granted, official entries)
+•    Indirect techniques
+•   Surveys
+•   Interpolation
+P2 = P1 + B – D  + I – O + X
+Error of closure
+
+---
+When a new Census is conducted, errors become apparent
+(where people were not counted)
+
+---
+Data can be incomplete 
+and messy, especially 
+historical population data
+Ex: A fire in January 1921 
+destroyed almost all 
+records of the 1890 census
+Data quality depends on 
+the available infrastructure
+
+---
+•
+Response rates and census 
+hesitancy
+•
+What questions are asked - or 
+not asked - and how are they 
+asked? 
+•
+Differential Undercounts
+•
+Changes to the Census over 
+time
+How reliable is data collection in the US 
+Census?
+
+---
+2020 Census Self-Response Rate
+If an address doesn’t respond:
+1) Try again (mail)
+2) Try again (mail)
+3) Send someone to go knock 
+4) Knock again
+5) Knock again
+6) Knock again
+7) Knock again
+8) Knock again
+
+---
+Differential undercounts: Hesitancy? 
+Structural barriers to counts?
+• Some sub-populations are more likely to be undercounted than 
+others
+Undercount 
+discovered 
+when men 
+had to sign up 
+for the draft.
+Undercount 
+rates still 
+VASTLY higher 
+for Black 
+Americans
+
+---
+
+---
+Reasons for 
+under/overcount:
+1) Babies
+2) Elderly 
+3) People move
+4) Children w/ multiple 
+       households
+5) Response Hesitancy
+     (system avoidance)
+
+---
+Reasons for 
+under/overcount:
+1) Babies
+2) Elderly 
+3) People move
+4) Children w/ multiple 
+       households
+5) Response Hesitancy
+     (system avoidance)
+These are BIG numbers!
+Hispanic population ~60 million
+So 5% undercount is ~3 million people!
+
+---
+•
+Response rates and census 
+hesitancy
+•
+What questions are asked - or 
+not asked
+•
+Differential Undercounts
+•
+How are questions asked? 
+How reliable is data collection in the US 
+Census?
+
+---
+Example: Citizenship Question
+
+---
+
+---
+Example: Citizenship Question
+• Fears it would lead to:
+• People refusing to fill out the form
+• Misreporting foreign-born status
+• US already knows citizenship of about 90% US residents
+• Estimates say that the question would have only bumped 
+that to about 93%.
+
+---
+Where a citizenship question could cause the census to miss millions of Hispanics - The Washington Post
+Potential effects of 
+citizenship question:
+Has implications for 
+representation in 
+Congress, funding, etc
+
+---
+Reasons for 
+under/overcount:
+1) Babies
+2) Elderly 
+3) People move
+4) Children w/ multiple 
+       households
+5) Response Hesitancy
+     (system avoidance)
+Hispanic undercount 
+increased 2.5x!
+
+---
+How reliable is data collection in the US 
+Census?
+•
+Response rates and census 
+hesitancy
+•
+What questions are asked - or 
+not asked
+•
+Differential Undercounts
+•
+How are questions asked? 
+
+---
+Limitations to how questions are asked
+•
+Best estimates are that 1.7% of people are born with intersex traits
+•
+~5 million Americans!
+•
+.5% clinically identifiable sexual or reproductive variations 
+•
+~1.7 million Americans
+•
+~1.3 million American adults identify as transgender
+
+---
+Source: US Census Bureau, 2020 Census questionnaire.
+2010: Had to infer same-sex relationships
+2020: Same-sex relationships explicit
+
+---
+Relationship Question (census.gov)
+
+---
+Relationship Question (census.gov)
+NEW in 1990:
+Person of Opposite Sex 
+Sharing Living Quarters
+
+---
+Relationship Question (census.gov)
+NEW in 1990:
+Person of Opposite Sex 
+Sharing Living Quarters
+
+---
+Relationship Question (census.gov)
+
+---
+Relationship Question (census.gov)
+
+---
+Similar Issues With Vital Statistics:
+
+---
+Source: Ahmad and Anderson. 2021. JAMA 325(18): 1829-1830
+Big jumps in these too!
+
+---
+
+---
+Source: Tai and Lu 2021. AJPH
+Was COVID-19 the Leading Cause of Death in 2020?
+
+---
+Estimating Rates: Combining Sources
+Requires data from vital registration (#births) 
+AND from Census (#population)
+Important to think about limitations of BOTH data sources!
+General fertility rate = 
+# births in year
+# women aged 15-49 mid-year
+
+---
+In some international 
+contexts, 
+measurement is 
+much more 
+difficult because data are 
+not collected 
+
+---
+In some international 
+contexts, 
+measurement is 
+much more 
+difficult because data are 
+not collected 
+
+---
+An Example Where Data Mattered: 
+Births During Covid
+
+---
+Decline in births began right away, not 9 
+months after Covid!
+
+---
+Lots of foreign-
+born people 
+either: 
+A) left the US in 
+anticipation of a 
+lockdown or 
+B) didn’t come 
+to the US 
+because of the 
+lockdown
+
+---
+Other Data Collection Efforts in the US
+(I will not test you on these!)
+• The census department runs >90 surveys across many topics
+• American Community Survey (ACS) is an annual version of the Census w/ 
+extra info
+• Current Population Survey (CPS) is a monthly version conducted by the 
+Census for the Bureau of Labor Statistics, with supplements that cover 
+specific topics like employment
+• This is where unemployment stats come from
+• Businesses, investors use these data for planning
+• Economic Census (EC) is a census of businesses in the US conducted every five 
+years
+
+---
+Questions of the day
+https://tinyurl.com/jan27soc170
+Why is it important for the 
+government to collect accurate and 
+timely data? (1 sentence)
+Name two primary sources of data 
+used to calculate demographic 
+rates.
+
+---

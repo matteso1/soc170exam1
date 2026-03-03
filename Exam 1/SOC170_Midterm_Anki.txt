@@ -1,0 +1,132 @@
+What is demography?	The study of populations -- their size, composition, distribution, and dynamics (how they change over time).
+What is "population thinking"?	Focusing on aggregate, population-level patterns and processes rather than individual-level behavior and outcomes.
+What are the four important things about a population?	1) Size, 2) Composition (who the people are), 3) Distribution (where they are), 4) Dynamics (how it's changing).
+What is a population cartogram?	A map where the size of each country is scaled by its population, not its land area. Small dense countries get bigger; large empty countries shrink.
+In a population cartogram, what happens to small countries with high population density?	They INCREASE in size relative to a standard geographic map.
+What does the size of a country represent on a population cartogram?	The relative size of its population.
+What is the balancing equation of population change?	P(t2) = P(t1) + Births - Deaths + Immigration - Emigration + error. It calculates changes in population size based on the magnitude of flows into or out of a population.
+What is natural increase?	Births minus Deaths. If positive, more people are being born than dying.
+What is net migration?	Immigration minus Emigration. The net flow of people in or out.
+What is an error of closure?	An imbalance in the estimation of the balancing equation of population -- when the components don't perfectly account for observed population change.
+What is a count?	The absolute number of a population or any demographic event occurring in a specified area in a specified time period. Example: "147,890 births."
+What is a ratio?	The relation of one population subgroup to the total population or to another subgroup. Example: "95 men per 100 women."
+What is a rate?	The frequency of demographic events in a population during a specified time period, divided by the population "at risk" of the event. Example: "12.1 births per 1,000 people per year."
+What is a crude rate?	A rate where the denominator is the total population, regardless of who is actually at risk of the event.
+What are "person-years of exposure"?	A more precise denominator for rates that accounts for how long each person was actually in the population and at risk. Someone present for 6 months contributes 0.5 person-years.
+What is the crude birth rate?	Number of births divided by the total population (usually per 1,000).
+What is the crude death rate?	Number of deaths divided by the total population (usually per 1,000).
+Why can crude mortality rates be misleading? (Japan vs. US example)	Japan has a HIGHER crude death rate than the US (11.7 vs 8.4) but HIGHER life expectancy (85 vs 77). Japan's population is older, so more people die. Age-adjusted rates tell the real story.
+What is a cohort?	A population sub-unit that experiences a demographic event during a specific time interval (e.g., everyone born in 1990).
+What is a period in demography?	A specific point or interval in time (usually a year) used for measurement.
+What is the relationship between Age, Period, and Cohort?	Cohort = Period - Age. If you know any two, you can calculate the third.
+What does each horizontal bar in a population pyramid represent?	The number or percent of males and females of a given age group.
+What are the four reasons age structure matters?	1) Record of past cohort experiences, 2) Age pattern of demographic risk, 3) Potential for population growth, 4) Age dependency ratios.
+What is the baby boom echo?	The population of children born to the baby boom cohort -- a second bulge in births caused by boomers reaching reproductive age.
+What is the dependency ratio?	The ratio of dependent population (children + elderly) to working-age population.
+What is the Old Age Dependency Ratio (OADR)?	Population aged 65+ divided by population aged 15-64.
+How might higher dependency ratios stress healthcare?	A large dependency ratio means fewer working-aged people to pay for and/or provide care to larger numbers of the elderly.
+What is a demographic dividend?	When a country has low dependency ratios (lots of workers, few dependents), leading to economic growth because more people are working and spending money.
+What is a "demographic implosion"?	A sharp increase in the dependency ratio as a population ages rapidly (e.g., China going from 36 to 60+ dependents per 100 workers between 2010-2050).
+What are the types of population pyramids?	Young (wide base, triangle = growing), Mature (rectangular = stable), Old/Declining (narrow base, top-heavy = shrinking).
+What is the US Census?	A full count of the population conducted every 10 years, mandated by the Constitution.
+What are the two main constitutional reasons for the Census?	1) Allocation of seats in the House of Representatives (apportionment), 2) Taxation and spending (resource allocation).
+Which is NOT an official use of Census data: determination of tax rates, allocation of resources, or representation?	Determination of tax rates is NOT an official use.
+What is an undercount?	When certain sub-populations are more likely to be left out of the Census count than other groups.
+Which groups are most likely to be undercounted in the Census?	Black Americans, Hispanic Americans, young children, elderly, people who move frequently, and people who avoid government systems.
+What was the primary concern about the citizenship question on the 2020 Census?	That immigrant families (with and without documentation) would avoid the Census or respond inaccurately, worsening the undercount.
+What is the error of closure?	The gap between what the balancing equation predicts and actual observed population change, because no data source is perfect.
+What are the main sources of population data?	Census, vital registration (birth/death certificates), government immigration records, surveys, and indirect techniques (interpolation).
+What is the First Demographic Transition?	A sequence of population change: mortality declines first (due to health improvements), followed by fertility decline. Goes from high birth/death rates to low birth/death rates.
+In the early stage of the demographic transition, what happens when mortality declines but fertility stays high?	Population increase -- more people are being born than dying.
+What are the five stages of the First Demographic Transition?	Stage 1: High birth + death rates (stable). Stage 2: Death rate falls, birth rate high (growth). Stage 3: Birth rate falls (slower growth). Stage 4: Both low (stable). Stage 5: Very low fertility (shrinking).
+What is the Second Demographic Transition (SDT)?	The emergence of sustained sub-replacement fertility, diverse living arrangements, a disconnection between marriage and procreation, and no stationary population.
+What are the four central components of the SDT (Van de Kaa)?	1) Weakening of marriage (divorce, cohabitation rise), 2) Shift from king-child to king-couple, 3) Shift from preventive to self-fulfilling contraception, 4) Pluralistic family forms replace the uniform conjugal family.
+What does "king-child to king-couple" mean in the SDT?	Pre-SDT: parents sacrifice everything for children's upward mobility. SDT: parents weigh their own interests alongside children's; kids are intrinsically rewarding rather than investments.
+Is the SDT limited to Europe and the US?	No. Aspects of the SDT can be observed in countries around the world (Mexico, China, etc.), though the pattern isn't identical everywhere.
+What does "reading history sideways" mean in demography?	The mistake of assuming that because one country followed a certain pattern, all others will follow the same path. Cross-sectional patterns don't necessarily predict every country's future.
+What is sub-replacement fertility?	A Total Fertility Rate below ~2.1, the level needed to replace the population without immigration.
+Who was Thomas Malthus and what did he argue?	18th century British philosopher who argued that population grows exponentially while food production grows arithmetically, inevitably leading to famine and mass death.
+What are Malthus's preventative checks?	Moral restraint: delayed marriage, abstinence, restricting marriage of the poor. (NOT restraints on consumption.)
+What are Malthus's positive checks?	The bad outcomes: disease, starvation, war -- what happens when preventative checks fail.
+Did Malthus believe restraints on consumption would solve the population crisis?	No (FALSE). He advocated for moral restraint on REPRODUCTION (abstinence, delayed marriage), not consumption.
+What is the moral/inequality critique of Malthus?	Hunger and poverty are caused by unequal distribution of resources, not population growth itself. There IS enough food; it's just wasted or in the wrong places.
+According to the inequality critique, does population growth cause hunger and poverty?	No (FALSE). Social inequality and unequal resource distribution cause hunger and poverty, not population growth.
+What is the technological critique of Malthus?	Human innovation solves scarcity. Resource scarcity drives up prices, incentivizing alternatives. Larger populations mean more minds working on solutions. (Green Revolution, Simon-Ehrlich bet.)
+Which critique of Malthus does this belong to: "Social inequality interferes with the implementation of technological innovations"?	This is NOT the technological critique -- it's the inequality/moral critique. The tech critique is optimistic about innovation.
+What is the demographic critique of Malthus?	Population growth is temporary -- the demographic transition shows that growth rates slow as modernization progresses. Don't extrapolate current trends to infinity.
+What are Neo-Malthusians?	Modern thinkers who recycle Malthus's argument that population growth will outstrip resources (e.g., Paul Ehrlich's "The Population Bomb").
+What is population momentum?	The number of births may continue to increase -- even if fertility levels are lower -- if the number of reproductive-aged adults continues to grow. A large young cohort produces many total births even at low per-person rates.
+Explain the population momentum example from the slides.	Time 1: 2 young people, birth rate of 50, population = 104. Time 2: 100 young people, birth rate of 1, population = 202. Rate crashed but population nearly doubled.
+When did global population growth rate peak vs. absolute growth?	Growth RATE peaked ~1965. Largest absolute number of people added peaked ~1985. The lag is population momentum.
+What is the IPAT equation?	I = P x A x T. Impact = Population x Affluence (per capita consumption) x Technology. Population is only one part of environmental impact.
+What is the key insight about IPAT and climate change?	"It is more accurate to say that consumers, rather than people, cause climate change." Affluence and technology matter as much or more than population size.
+What is the "washing machine line" (Hans Rosling)?	The level of wealth where people can afford a washing machine -- the threshold where consumption starts significantly increasing as manual labor is replaced.
+What is the "air line" (Hans Rosling)?	The category of resource consumption defined by the ability to afford air travel -- the highest tier of consumption and environmental impact.
+What is the social construction of scarcity?	The idea that resources aren't inherently scarce -- scarcity is created by how societies distribute and waste resources.
+What are the consequences of climate change for populations?	Fertility: very small effects. Mortality: small but disasters matter. Migration: BIG impacts (displacement, livelihood loss, sea level rise).
+What is fertility?	The actual number of children born.
+What is fecundity?	The biological capacity to produce a live birth.
+What is infertility?	Reduced ability to conceive. Medical definition: failure to achieve pregnancy after 12+ months of regular unprotected sex.
+What is the Crude Fertility Rate?	Number of births / total population (per 1,000). Period measure.
+What is the General Fertility Rate (GFR)?	Number of births / number of women aged 15-49 (per 1,000). Period measure.
+What is the Age-Specific Fertility Rate (ASFR)?	Number of births to women of a specific age group / number of women in that age group (per 1,000). Period measure.
+What is the Total Fertility Rate (TFR)?	The sum of all age-specific fertility rates. Interpreted as the number of children a woman would have if she experienced that year's rates throughout her life. Period measure.
+How do you calculate TFR from 5-year ASFRs?	Sum all the ASFRs, then multiply by 5. Example: if sum = 0.3505, TFR = 0.3505 x 5 = 1.75.
+What is Cohort Completed Fertility?	The total number of births to a cohort of women by the end of their reproductive years. A cohort measure -- more "real" but you have to wait.
+What is the tempo effect?	When women delay (postpone) having children, the period TFR drops temporarily even if they'll eventually have the same number of kids. Timing change creates a misleading dip.
+What is the quantum effect?	An actual change in the NUMBER of births (as opposed to just the timing).
+What is the postponement transition?	When first births are delayed to later ages, causing a temporary dip in period TFR. May or may not lead to lower completed fertility.
+Period measures: pros and cons?	Pro: timely (available now). Con: may not be accurate (vulnerable to tempo effects).
+Cohort measures: pros and cons?	Pro: accurate (measures what actually happened). Con: not timely (retrospective -- have to wait for the cohort to finish).
+In the US, what does completed cohort fertility tell us vs. TFR?	They tell a different picture. Cohort fertility has been more stable than the declining TFR suggests, meaning some of the TFR decline is just postponement, not fewer kids overall.
+What drives the declining US birth rate?	Primarily declining teen births and births to 20-24 year old women, not older women stopping having kids.
+What is Coale's three prerequisites for fertility decline?	1) Ready (fertility within conscious choice), 2) Willing (reduced fertility seen as advantageous), 3) Able (effective contraception available).
+What is demand theory of fertility decline?	Economic development increases the "cost" of children, so people demand fewer kids. "Development is the best contraceptive."
+What is diffusion theory of fertility decline?	Ideas about smaller families spread through social networks, media, and family planning programs. Programs change norms and increase access.
+Which is NOT a diffusion theory: "socio-economic development creates demand for lower fertility"?	Correct -- that is a DEMAND theory, not diffusion. Diffusion is about spreading ideas and access through programs/messaging.
+What are coercive vs. rights-based family planning policies?	Coercive: government limits people's agency over fertility (forced sterilization, one-child policy). Rights-based: empowers people to make informed choices about family size.
+What happened at the Bucharest (1974), Mexico City (1984), and Cairo (1994) conferences?	Bucharest: rich countries push family planning, poor countries say "development is the best contraceptive." Mexico City: demographic dividend recognized, US supports economic growth. Cairo: shift from coercive family planning to rights-based human development.
+What is unmet need for family planning?	The proportion of women who want to delay or stop childbearing but are not currently using contraception.
+What is unmet need for contraception?	When the demand for contraception is higher than the use of contraception.
+What is the status of unmet need in sub-Saharan Africa?	It has the lowest level of demand but the highest level of unmet need -- among those who want contraception, the largest proportion can't access it.
+What is the most frequently cited reason for not using contraception in lower-income countries?	Concerns about side effects (NOT lack of access -- that was true in the 1960s but not anymore).
+True or False: Infrequent sex is an increasingly common reason for not using contraception in Southeast Asia.	True.
+Do noneconomic costs affect access to contraception?	Yes (the statement that they don't is FALSE). Stigma, side effect concerns, partner disapproval, and travel time are all barriers.
+What is the Helms Amendment (1973)?	Prohibits US foreign aid money from being used to pay for abortion as a method of family planning.
+What is the Mexico City Policy / "Global Gag Rule"?	NGOs receiving US family planning money cannot use even non-US funds to mention, advocate for, or provide information about abortion. Gets toggled on/off by each new president.
+What is the two-child norm?	In most high-income countries, couples say they want about two children, even as actual fertility falls below replacement.
+True or False: US fertility in 2021 was below the replacement rate.	True. US TFR has been below ~2.1 since 2007.
+What are potential consequences of sustained low fertility?	Shrinking population and a population with more old than young people (aging). NOT imbalanced sex ratios.
+What is parity?	The number of children a woman has had (parity 0 = no kids, parity 1 = one kid, etc.).
+What is foregone fertility?	The gap between how many children people want and how many they actually have, due to financial, career, or relationship constraints.
+What is life expectancy (e0)?	The average length of life in a population -- also the average age at death. A period measure based on current age-specific mortality rates applied to a synthetic cohort.
+What is lifespan?	The length of an individual's life (as opposed to the population average).
+What is a centenarian?	Someone who lives to age 100+.
+What is a super-centenarian?	Someone who lives to age 110+.
+How is period life expectancy calculated?	The average number of years a baby born today would live IF today's age-specific mortality rates persisted throughout their lifetime. Like TFR, it's a period measure for a synthetic cohort.
+Why does infant mortality affect e0 so dramatically?	Each infant death represents ~80 lost years, pulling the average way down. Adding one death at age 1 to a group dying at 65-89 dropped the average from 76 to 68.3 years.
+Before 1950, life expectancy gains came from...?	Reducing infant and child mortality.
+After 1950, life expectancy gains came from...?	Improved survival at older ages. (True that recent gains depend on increased survival among older adults.)
+What is the compression of mortality?	Deaths become concentrated over a narrower range of ages (mostly old age). The survival curve becomes rectangular.
+What is the compression of morbidity hypothesis?	Increased life expectancy will be accompanied by a shortening of the length of time spent in poor health. You live longer AND healthier, with illness compressed into a brief window before death.
+What is healthy life expectancy?	Expected years of life lived in good health, measured by functional limitations (standing, dressing, preparing food).
+What is morbidity?	The prevalence of disease in a population.
+If mortality is declining over time, how does cohort e0 compare to period e0?	Cohort life expectancy is typically LARGER than period life expectancy, because conditions keep improving as the cohort ages.
+What is chronological age?	How many calendar years a person has been alive. "How old are you?"
+What is biological age?	A measure of physiological condition based on biomarkers (metabolic, cardiovascular, inflammatory functioning). "You look good for your age!"
+What is sociological age?	Society's expectations associated with a certain chronological age. Varies across societies. "You shouldn't do that at your age!"
+What is subjective age?	Your own perception of how old you feel. "I should have done X by now!"
+What are three ways to measure population aging?	1) Increase in median age, 2) Increase in share of population 65+, 3) Changes in healthy life expectancy (compression vs. expansion of morbidity).
+What causes population aging? (3 factors)	1) Improved survival at older ages, 2) Declining fertility (fewer young people), 3) Migration (immigrants are working age; out-migration from rural areas leaves older populations).
+What is the aging effect?	Increases in morbidity and mortality caused by the increased median chronological age of a population. More disease simply because people are older.
+What is the longevity effect?	Decreased biological age of a population improves health. "75 is the new 65." Reduces prevalence of health issues.
+How do aging and longevity effects relate?	They can offset each other. Alzheimer's example: crude rates went up (aging effect) but age-standardized rates stayed flat (longevity effect). The increase was just because there were more old people.
+What is age inflation?	The meaning of "old" changes over time. Using a fixed age threshold (65) makes populations look more aged than they functionally are.
+What is natural decrease?	When deaths exceed births in a population. Already happening in many rural US counties.
+What is a "demographic time bomb"?	The alarming term for when a country's dependency ratio spikes and the system of supporting elderly becomes unsustainable.
+What are potential solutions to population aging?	Work in later life, reduce pensions, labor/finance policy reform, increase immigration, increase fertility (pro-natalist policies).
+What are the four considerations about solutions to aging?	1) Pace (how urgent?), 2) Socioeconomic inequality (disparate effects?), 3) Geography (where are old people?), 4) Generational equity (policy changes affect specific cohorts).
+What are "deaths of despair"?	Term by Case & Deaton for drug overdoses, alcohol-attributable mortality, and suicide -- driving mid-life mortality increases especially among white Americans without college degrees.
+What are health reversals?	When mortality trends reverse and start getting worse, as happened in the US since ~2000 with increasing mid-life mortality.
+What did Case & Deaton (2021) find about education and life expectancy?	Life expectancy in adulthood is falling for those without a BA degree. Educational gaps in mortality have widened while racial gaps have narrowed.
+True or False: Demographers are primarily concerned with individual-level consequences.	False. Demographers study population-level patterns and processes.
