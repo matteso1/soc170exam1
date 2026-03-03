@@ -1,0 +1,738 @@
+ 
+1
+Population Problems 
+Sociology 170, Spring 2026 
+Lecture Section Syllabus 
+ 
+Instructor of Record:  Nicholas Mark  
+ 
+ 
+E-mail: nmark3@wisc.edu 
+ 
+ 
+ 
+Office:  4456 Sewell 
+ 
+ 
+ 
+ 
+ 
+Office Hours: Tuesday 11:00 – 12:00 
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Or by appointment  
+ 
+Lecture: 
+LEC 001: Tuesday/Thursday 9:55a – 10:45a, Humanities 2340 
+ 
+ 
+TA Contact:  
+ 
+Hanbi Park:  hanbi.park@wisc.edu 
+Bijoyetri Samaddar: bsamaddar@wisc.edu 
+ 
+Welcome to Sociology 170: 
+The global community is currently amid a sizeable demographic transition. Over the next century, 
+the global population is projected to increase from 8 to approximately 11 billion. Some countries 
+will grow rapidly, while others are expected to decline in size. Over the same period in the United 
+States, the median age will rise to 40, the Asian and Hispanic-origin populations will triple in size, 
+and the proportion of white Americans will decline. Recently, leading population scientists have 
+updated global projections and now think that global population may peak earlier and may be 
+lower than previous projections. That is to say, populations are dynamic and responsive to the 
+social, political, and natural world around and are worthy of ongoing and pointed study!  
+This sociology (the study of people groups and their relationship and influences to and on social 
+structures) course draws on materials and perspectives from the related fields of demography (the 
+statistical study of populations) and epidemiology (the study of the distribution and determinants 
+of health and disease in populations). We will examine how certain social phenomena—particularly 
+structural inequality—influence and are reproduced by population change both globally and in the 
+contemporary United States. Throughout the course, we will focus on issues that feature in current 
+social science and public policy debates, including population aging, fertility and reproduction, 
+immigration, and social inequalities. We’ll pay special attention to health disparities by race, 
+ethnicity, and socioeconomic status.   
+The goals of the course are (1) to provide students with methodological tools to understand 
+population change in a systematic way, (2) to introduce the core concepts and debates in social 
+demography and social epidemiology, and (3) to use these tools and concepts to (a) understand 
+how population processes contribute to the production of inequality within and across generations 
+and (b) examine racial and ethnic inequality in the United States and its implications for population 
+health.  
+Sociology Department learning objectives: 
+Beyond the specific substantive and methodological content we will cover in this course, we have 
+designed this course to achieve the following instructional objectives designated as priorities by the 
+Department of Sociology: 
+
+---
+ 
+2
+• 
+Critically Evaluate Published Research: Students will be able to read and evaluate published 
+research as it appears in academic journals and popular or policy publications 
+• 
+Communicate Skillfully: Students will write papers and make oral presentations that build 
+arguments and assess evidence in a clear and effective manner 
+• 
+Critical Thinking about Society and Social Processes: Students can look beyond the surface 
+of issues to discover the “why” and “how” of social order and structure and consider the 
+underlying social mechanisms that may be creating a situation, identifying evidence that 
+may adjudicate between alternative explanations for phenomena, and develop proposed 
+policies or action plans in light of theory and data 
+• 
+See Things from a Global Perspective: Students learn about different cultures, groups, and 
+societies through time and place. They are aware of the diversity of backgrounds and 
+experiences among residents in the United States. They understand the ways events and 
+processes in one community are linked to those in other communities 
+ 
+Learning and COVID-19: 
+Please do not come to class if you are sick! Students should continually monitory themselves for 
+COVID-19 symptoms. Masks are welcome but not required. Please respect your fellow classmates’ 
+decisions regarding mask wearing. Get tested for the virus if you have symptoms or have been in 
+close contact with a COVID-19 infected person, regardless of your vaccination status. Should you 
+develop any symptoms of COVID-19, or contract a positive case, please reach out to your TA as soon 
+as possible to make a plan for missed classes.  
+ 
+Classes missed due to illness are considered excused absences when the student notifies the TA 
+ahead of missing class and such absences will not negatively affect your participation grade. This 
+applies to all illness, not just COVID-19. Again, please do not come to class if you are sick! Rest, take 
+care of yourself, and return when you are well and not contagious. 
+ 
+ 
+Ethnic Studies Requirement – History and Learning Objectives:  
+“The Ethnic Studies requirement is intended to increase understanding of the culture and 
+contributions of persistently marginalized racial or ethnic groups in the United States, and to equip 
+students to respond constructively to issues connected with our pluralistic society and global 
+community. Because this increased understanding is expected to have a positive effect on campus 
+climate, students are expected to complete this requirement within the first 60 credits of 
+undergraduate study. 
+ 
+Ethnic Studies Requirement Stated Learning Outcomes: Students draw connections between 
+historical and present-day circumstances and consider perceptions and cultural assumptions when 
+examining questions and making decisions. In courses that satisfy the Ethnic Studies requirement, 
+students will: 
+ 
+• 
+articulate how the past has affected present day circumstances regarding race and racial 
+inequalities in the U.S. 
+• 
+recognize and question cultural assumptions and knowledge claims as they relate to race and 
+ethnicity 
+• 
+demonstrate self-awareness and empathy toward the cultural perspectives and worldviews of 
+others 
+• 
+apply course concepts to their lives outside the classroom by respectfully participating in our 
+multicultural society (UW-Madison Undergraduate Guide, 2023) 
+
+---
+ 
+3
+ 
+In response to several high-profile racist incidents on the UW-Madison campus in 1987 and the 
+surrounding years, numerous departments and schools like Letters & Sciences demanded 
+educational responses that would expose all students to racially diverse histories and experiences. 
+Over time, these demands grew into the formal Ethnic Studies requirement for all undergraduate 
+students at UW-Madison. Completing Sociology 170 meets these requirements. (Learn more here.) 
+ 
+As an educator I take this requirement and the stated learning outcomes seriously and believe in 
+their importance for a well-rounded and conscientious higher educational experience, regardless of 
+major track or field of study. My goal in this course is to help students across the university employ 
+a sociological perspective towards race – in its historical and contemporary contexts – to help 
+students learn about the structural issues underpinning racial disparities, racism, and 
+discrimination in the United States.  
+ 
+ 
+Accommodations and Religious Observances: 
+As an educator, I aim to make sociology accessible to all students regardless of cultural and 
+religious background, ability, or previous educational experience. Everybody learns differently, and 
+neurodiversity is an important element in our campus community and should not be an immovable 
+barrier to learning in this course. Please seek accommodations from the McBurney Center when 
+appropriate, and I encourage all students to discuss with their TA any situations or emergencies 
+that arise during the semester that may affect performance in the course so the instruction team 
+may advocate for you when appropriate.  
+ 
+Regarding formal accommodations through the McBurney Center, please contact your TA and 
+Instructor of record, Nicholas Mark, by the end of the second week of the course if you are eligible 
+for special arrangements or accommodations for testing, assignments, or other aspects of the 
+course. Per campus policy, appropriate accommodations must be provided for students who qualify 
+for disability services through the McBurney Center. Their website has instructions about how to 
+qualify: http://www.mcburney.wisc.edu. We try to reserve rooms setup for accommodations by the 
+third week of class, so we must know all accommodations by then. 
+ 
+If you wish to request a scheduling accommodation for religious observances, send an email to your 
+TA and Instructor (Nicholas Mark) by the end of the second week of the course stating the specific 
+date(s) for which you request accommodation. Campus policy requires that religious observances 
+be accommodated if you make a timely request early in the term, and I am happy to make these 
+accommodations. See https://secfac.wisc.edu/academic-calendar/ for details.  
+ 
+ 
+Civility and Communication Guidelines: 
+The broad topics of this course—fertility, mortality, immigration, health, race/ethnicity, and 
+poverty—contain both highly personal and highly political themes. To learn most productively, we 
+must build an atmosphere of mutual respect and engagement in which all of us feel comfortable 
+participating, while still fully engaging in challenging topics and conversations.  
+ 
+Throughout our discussions, we (the teaching staff) will start out under the expectation that no one 
+is intentionally raising inflammatory or inappropriate questions or comments; we ask you to do the 
+same. Sometimes hurtful comments are made from genuine obliviousness, misunderstanding, or 
+novice engagement with new and challenging concepts. At the same time, we recognize that there 
+might be moments when someone’s questions or comments strike someone else as hurtful or 
+
+---
+ 
+4
+deeply objectionable – with or without such intention. In such cases, we ask all of you to both 
+seriously consider the other person’s point of view and standpoint, and to feel encouraged to speak 
+up and respectfully call into dialogue when language is indeed personally inflammatory, offensive, 
+or dehumanizing – despite the intention or lack thereof from the speaker. 
+ 
+In short: be empathetic, strive to keep the discussion respectful, and challenge one another with 
+respect and academic rigor. If you notice someone else becoming upset because of your comments, 
+ask yourself why that might be the case, and think about the purpose of academic exchange. 
+Remember: the idea is not to win an argument or change someone’s ideology; the idea is to come to 
+a better understanding of population dynamics and their implications for the social world. 
+ 
+Below are some guidelines suggested by me and others who teach courses with similar subject 
+matter that can help us to achieve a civil and safe classroom community: 
+ 
+• 
+Criticize the idea, not the person. Especially when you disagree, remember to make the idea, 
+opinion, or concept the object of your constructive critique, rather than the person who said 
+it. Personal attacks, blatant sexist, racist, trans/homophobic, dehumanizing, or antagonistic 
+language will not be tolerated. Be thoughtful and inquisitive and challenge one another to 
+think—but do not insult, dehumanize, or disrespect each other or your teaching staff. 
+• 
+Learn to distinguish between factual claims and opinions. Factual claims can be checked 
+against evidence. The following are both factual claims: “I had this particular experience,” 
+and “my experience is typical of everyone’s experience.” However, the former is true and 
+should be respected when you report it or hear it, but the latter may or may not be true, and 
+can be assessed with evidence from other people and from empirical research. 
+• 
+Use your sociological imagination! Remember that the world is comprised of both 
+individuals, and of social structures that individuals must navigate. Reassess your place in 
+these social structures. Contribute to discussions that emphasize the connections among 
+history, social structure, and personal biography. 
+• 
+Be sensitive to minority/majority dynamics. Be mindful of your own positionality – or, your 
+unique history, identity, and social experience of life – compared to others. People who are 
+members of racial/ethnic minoritized groups, minoritized sexual or gender identities, or 
+people who hold minority political opinions or cultural values can feel particularly 
+vulnerable in some contexts. Please be aware of this during discissions and when you speak.  
+• 
+Communicate with your TA. Approach them after class, make an appointment, or send an 
+email if when you feel uncomfortable or very strongly about an event or discussion relevant 
+to class. Please let your TA know if you are worried about class dynamics. 
+• 
+Take permission to be unpolished - this is a learning space and a practice space. Expect 
+unfinished business and discussions that lack a coherent conclusion. We are all on a 
+learning curve here! But! Do not confuse being unpolished with being rude, inflammatory, 
+or dehumanizing.  
+• 
+Hold opinions lightly and with humility and come to the conversation with a willingness to 
+be challenged and to learn. 
+• 
+Keep others' stories confidential, while taking the important lesson of the story with you. 
+• 
+Provide feedback with curiosity (“How would you...?”, “What do you think of...?”, “Would it 
+be helpful for me to…?”) as opposed to belittlement or dismissal.  
+ 
+Office Hours: 
+Office hours with your TA are the ideal time to get one-on-one attention and work out any issues 
+you’re having with the material from lecture or discussion section. Attend office hours with your TA 
+
+---
+ 
+5
+if you have a question about course material, missed a discussion section or lecture and you are not 
+grasping the material on your own, or need extra help with assignments or study techniques. Please 
+send your TA a brief email before you attend office hours that describes the issue or question you 
+are having, and come prepared with the necessary readings or notes. 
+ 
+I hold regular office hours every week for students. Regarding the course, I am happy to talk to you 
+about any sources of confusion, challenges you might be having, or to delve deeper into some of the 
+issues we will discuss this semester. Additionally, I am happy to be a resource as you navigate the 
+university setting or have questions about academia, graduate school, the job market, etc. For many 
+of you, the university setting is a new experience, and it can be overwhelming. It certainly was for 
+me! 
+ 
+Drop ins are welcome and usually not busy, but if you want to guarantee time to chat, please 
+schedule an appointment with me via email.  Hours and links in Canvas or the top of the syllabus. 
+ 
+While I prefer not to, if the scheduled office hours do not fit your schedule, we can meet outside of 
+office hours on an as-needed basis.  
+ 
+Communication with your TA and instructor: 
+Due to the large size of this course, please adhere to the following procedure: 
+• 
+If you have questions or concerns related to grading, assignments, administration, or course 
+content, always check the course website and syllabus first. 
+• 
+If you can’t find what you need there, contact your TA next. 
+• 
+If issues remain, come to my virtual office hours—there’s no appointment needed. You can 
+also always talk to me after lecture. 
+• 
+If a schedule conflict prevents you from talking with me after lecture or during office hours, 
+email nmark3@wisc.edu to set up an appointment for another time. These emails must 
+contain “170” in the title; otherwise they are at risk of being filed into spam. 
+Your TA and I try to respond to student emails in a timely manner (usually within 2 business days, 
+barring any unusual circumstances) and during business hours. I typically do not check email 
+regularly on weekends, so I will address emails sent late Friday evenings on Monday mornings. I 
+will try to check and address any emails on Friday afternoon before I shut down my computer. 
+Please avoid sending last-minute messages, as I may not be able to respond to them in time. For an 
+appointment outside of office hours, please allow for at least a 48-hour notice, as my weekly 
+schedule is quite tight. 
+ 
+** Please consult your syllabi and Canvas before emailing about assignments, due dates, or other 
+course material and requirements. Most questions have been addressed in the syllabus. ** 
+ 
+Email Etiquette: In all of your emails to teaching staff, please include “SOC170-30x” in the 
+subject line and include your full name in the body or signature. I try to respond to all 
+emails within two business days, but if I fail to, please do not hesitate to “bump” your email 
+to the top of my inbox by replying to your original email with a gentle reminder. If I am 
+indeed late in responding to you, this action is not rude, but rather helps when my inbox 
+becomes unruly. Email is a professional communication tool, so please use it as such by 
+keeping communication professional and related to the course or office hours. Consult this 
+website that has helpful advice for emailing professors and TAs: www.wikihow.com/Email-
+a-Professor. 
+
+---
+ 
+6
+ 
+Evaluation and Grading: 
+There are four major components to the course: 1) discussion attendance and quality participation; 
+2) written assignments, 3) exams, and 4) In-class responses.  
+ 
+(1) Attendance (10%) & Quality Participation (10%): Attendance is mandatory. Your TA will take 
+attendance each week. You may miss one discussion section unexcused with no effect to your 
+grade. More than one unexcused absence will lower your attendance and participation grade. It is 
+your responsibility to make up all missed work; be sure to obtain any handouts distributed in class 
+and borrow notes from classmates. Excused absences include illnesses, university-approved travel, 
+emergencies, and other extreme cases. The best way to avoid an unexcused absence is to 
+communicate ahead of time! Your TA will be reasonable and accommodating when possible and 
+appropriate. 
+ 
+High quality participation will meet the civility guidelines mentioned above and agreed upon, will 
+be grounded in the class readings, will demonstrate a strong command of the course material, and 
+will help facilitate meaningful course discussion. You are required to demonstrate that you have 
+been mindful of the lectures and readings. I encourage you to try in contributing thoughtful, 
+relevant classroom participation that elevates the classroom discussion.  
+ 
+Participation comes in many forms and your evaluation is not based solely on how much you speak 
+and if your answers are correct. Rather, good participation is about using your unique skills, 
+experience, and insight to help create meaningful academic exchange. This can mean speaking up 
+when you have an insight, helping to ask clarifying and enriching questions of your classmates, and 
+redirecting conversation to the agreed upon source material. It can also mean listening intently to 
+your small group discussions and reporting accurately the conclusions, stepping back to allow 
+others to speak when you know you have been dominating a conversation, and exercising courage 
+to speak up with a pointed insight despite the discomfort of speaking aloud. Discussion section is 
+about learning the course material, and becoming comfortable with elocuting the course ideas in 
+everyday interaction.  
+ 
+Students are evaluated on two points as it relates to participation:  
+ 
+1) Preparation and content command: how prepared students are for discussion and how 
+relevant their substantive contributions are to the conversation.  
+a. High scoring students will demonstrate a clear reading and grasp of the course 
+material (readings and lecture content); draw discussion points from course 
+material and empirical evidence; ask clarifying and enriching questions to deepen 
+course discussion points; tie course material to previous course ideas, topics, and 
+themes; practice humility and acknowledge when they do not understand a topic, 
+idea, or theme. 
+b. Low scoring students will demonstrate poor class preparation by not completing 
+readings or attending lectures; offer discussion points that are not relevant to the 
+course or rooted in course content; change topics frequently or avoid answering 
+discussion prompts; fabricate or improvise answers or discussion points despite 
+understanding of the topic and lack of grounding in course material.  
+ 
+2) Creating a meaningful classroom experience: how well students engage in classroom 
+discussion and facilitate meaningful academic exchange. 
+
+---
+ 
+7
+a. High scoring students may regularly step back to give space for others to speak after 
+speaking; exercise courage in speaking up in small or large group discussions 
+despite the discomfort of speaking aloud; notice their own preconceived ideas about 
+course material and reflect in person or aloud on how the course material relates; 
+ask follow-up questions to allow others to complete their thoughts or expand on 
+good ideas or comments; show grace to other students who are practicing their 
+public speaking skills.  
+b. Low scoring students may speak too frequently and prevent others from expressing 
+their ideas; sit idle and not engage in any small or large group class conversation; be 
+dismissive of the course concepts and ideas, or the ideas of their peers, outright 
+without any consideration; ask disrespectful or “gotcha” questions to their peers for 
+the sake of winning an argument or proving a point; belittle or scoff at students who 
+are less practices as speaking the course material aloud.  
+ 
+Note: For all students: Participation scores will also be lowered at the TA’s discretion for 
+students who are an active distraction from the class discussion, including but not limited to 
+off-topic multitasking, belittling the contribution of other students, and actions that create a 
+hostile classroom environment and violate the community discussion guidelines established 
+by the class. 
+ 
+(2) Written assignments (20%): There will be two short writing assignments that will require you 
+to connect class material to current events via the analysis of current news stories. The purpose of 
+these assignments is for you to draw a clear connection between theoretical concepts and material 
+reality. An additional handout will explain these assignments in more detail. The two written 
+assignments will together represent 20% of your grade in the course. 
+ 
+(3) Exams – combined (45%): There will be two exams in the course. Taken together, material and 
+handouts covered in discussion sections, lecture, and written assignments will aim to prepare you 
+for the exams in this course. More details on the exam format during lecture. Lectures will NOT be 
+recorded or posted online, so attending lectures is of the utmost importance. If you miss an exam, 
+you will have 2 business days to make it up. Make up exams will be a written essay. Your exam 
+grade in this course will be based on the following components:  
+ 
+Exam 1 (3/3/2026): In class (20% of total grade, covers Topics 1-2) 
+Exam 2 (4/30/2026): In class (25% of total grade, covers Topics 3-4) 
+ 
+(4) In-class Quizzes (15%): There will be 24 quizzes, corresponding to the 23 substantive lectures 
+this semester plus a syllabus quiz. Quizzes will be in class, and will cover questions from the 
+readings and/or lecture. 1-3 questions will be displayed on the board, and they may be multiple 
+choice or short answer. They will take less than 5 minutes. Because I understand that things happen 
+and you may have to miss lecture for some reason, 3 quizzes won’t count toward your grade.  Your 
+score will thus be made up of your top 20 quiz grades, plus the syllabus quiz.  
+ 
+Course grades will be assigned in accordance with the UW undergraduate grade policy, using the 
+following point distribution: 
+ 
+A: 93-100  AB: 87-92.99  B:83-86.99  BC: 77-82.99  C: 70-76.99  D: 60-69.99  F: 0-59.99 
+ 
+You may contest specific exam and assignment grades up to two weeks after the exams and 
+assignments have been returned. Raise minor issues (e.g. computational errors in your score, 
+
+---
+ 
+8
+clarifications on points deducted) with your TA. Any substantive concerns about the contents of 
+your answer or petitions to change an assignment grade should be discussed with the professor. 
+Requests to re-grade assignments after final grades are submitted cannot be honored, per 
+university policy. 
+ 
+ 
+Privacy, Yours and Mine: 
+You may not record any discussion or lecture sessions without written consent from your 
+instructor AND your TA. This is extremely important! As a learning community, trust is critical for 
+fostering a place that we can engage in growth, self-reflection, and effective learning. Unauthorized 
+recording of lecture content or discussion sections violates this trust and is a violation of federal 
+law, as the privacy of your contributions and your classmates’ contributions to lecture and 
+discussion sections are protected by federal law.  
+• 
+Lectures and discussion materials and recordings for Sociology 170 are protected 
+intellectual property at UW-Madison.  
+• 
+Students in this course may use the materials and recordings provided on Canvas for their 
+personal use related to participation in this class. Students may also take notes solely for 
+their personal use.  
+• 
+If a lecture or discussion is not already recorded, you are not authorized to record either 
+without the professor and TAs permission unless you are considered by the university to be 
+a qualified student with a disability requiring accommodation. [Regent Policy Document 4-
+1]  
+• 
+Students may not copy or have discussion recordings outside of class, including posting on 
+internet sites or selling to commercial entities.  
+• 
+Students are also prohibited from providing or selling their personal notes to anyone else or 
+being paid for taking notes by any person or commercial firm without the instructor’s 
+express written permission.  
+• 
+Unauthorized use of these copyrighted lecture materials and recordings constitutes 
+copyright infringement and may be addressed under the university’s policies, UWS 
+Chapters 14 and 17, governing student academic and non-academic misconduct. 
+ 
+Academic Integrity, Departmental notice of grievances and appeal rights: 
+In your exams, quizzes, and written assignments, you are expected to exercise academic honesty 
+and integrity. According to UWS 14, academic misconduct occurs when a student: 
+• 
+Seeks to claim credit for the work or efforts of another without authorization or citation 
+• 
+Uses unauthorized materials or fabricated data in any academic exercise 
+• 
+Forges or falsifies academic documents or records 
+• 
+Intentionally impedes or damages the academic work of others 
+• 
+Engages in conduct aimed at making false representation of […] academic performance 
+• 
+Assists other students in any of these acts 
+Cheating, plagiarism, or any other breach of academic integrity on an assignment in this course will 
+result in an automatic failing grade of 0 for the exam or assignment in question, and a submission of 
+written reports to your college dean and the dean of students. Those administrators may (at their 
+discretion) take further disciplinary action. Please note that lack of familiarity with policies will not 
+excuse failure to comply with them. 
+ 
+The university’s Writing Center has an excellent webpage about how to successfully quote and 
+paraphrase texts: http://writing.wisc.edu/Handbook/QuotingSources.html. See also these 
+
+---
+ 
+9
+guidelines about avoiding plagiarism: http://writing.wisc.edu/Handbook/QPA_plagiarism.html. 
+Please make every effort to avoid such issues in your section writing assignments. 
+ 
+Departmental Notice of Grievance Procedure: 
+The Department of Sociology regularly conducts student evaluations of all professors and teaching 
+assistants near the end of the semester. Students who have more immediate concerns about this 
+course should report them to the instructor or to the chair, 8128 Social Science 
+(egrodsky@ssc.wisc.edu). 
+ 
+
+---
+ 
+10
+PART ONE: POPULATION FRAMEWORKS 
+January 20 (Tuesday): 
+Lecture #1.1 – Introduction, Population Thinking 
+Max Roser and Hannah Ritchie (2023) - "How has world population growth changed over 
+time?". Published online at OurWorldInData.org. Retrieved from: 
+'https://ourworldindata.org/population-growth-over-time' 
+Preston, S.H., P. Heuveline, and M. Guillot. (2001). Demography: Measuring and modeling 
+population processes. UK, Blackwell Publishers. Pp. 1-8, 16-20 
+January 22 (Thursday):  
+Lecture #1.2 – Periods, Cohorts, and Population Structure 
+ 
+Ritchie and Roser. (2019) Age structure. Our World in Data.   
+Rogers, Luke T. (2016). America’s Age Profile Told through Population Pyramids. US Census 
+Bureau 
+Recommended: 
+ https://worldpopulationreview.com/us-cities/madison-wi-population (Madison 
+Population pyramid) 
+(Discussion Session):  
+Make Introductions and Set Community Guidelines; Discuss Lecture 1.1/1.2- – Population Thinking 
+ 
+January 27 (Tuesday): 
+Lecture #1.3 – How do we know what we know about populations?  
+Sullivan, Theresa. (2020) “Coming to our census: How social statistics underpin our 
+democracy.” Harvard Data Science Review. Focus on sections 1, 2, 3, 6, 9, and 10 
+ 
+How the US Census misses people of color - and why it is so harmful. The Guardian, 
+February 2020. https://www.theguardian.com/us-news/datablog/2020/feb/27/2020-us-
+census-black-people-mistakes-count 
+Recommended: 
+Giattino et al. (2021). “Excess mortality during the Coronavirus pandemic (COVID-19).” 
+https://ourworldindata.org/excess-mortality-covid  
+January 29 (Thursday):  
+Lecture #1.4 – Demographic Transitions  
+Roser, Max. (2019) Demographic transition: Why is rapid population growth a temporary 
+phenomenon? Published online at OurWorldinData.org. 
+https://ourworldindata.org/demographic-transition 
+
+---
+ 
+11
+Lesthaeghe, R. (2014). The second demographic transition: A concise overview of its 
+development. Proceedings of the National Academy of Sciences, 111(51), 18112-18115. 
+https://doi.org/10.1073/pnas.1420441111  (4 pages) 
+(Discussion Session):  
+Discuss Lecture 1.3-1.4 
+ 
+February 3 (Tuesday):  
+Lecture #1.5 – Malthusians and neo-Malthusians vs. … Elon Musk?  
+Bell, Michael. (2004) “Population and Development.” An Invitation to Environmental 
+Sociology. pp. 78-99. 
+NY Times Video (2015). The population bomb? 
+Reynolds, Matt. (2022) “Elon Musk is Totally Wrong About Population Collapse.” Wired.  
+ 
+February 5 (Thursday):  
+Lecture #1.6 – Does population growth threaten the environment? 
+Stephenson, Judith, Karen Newman, and Susannah Mayhew. (2010). Population dynamics 
+and climate change: what are the links? Journal of Public Health. 32(2): 150-156.  
+Rosling, H. (2010). The magic washing machine. TED Video (9:16) 
+(Discussion Session):  
+Discuss lectures 1.5-1.6  
+ 
+February 10 (Tuesday):  
+Lecture #1.7 – Fewer babies, or later babies? 
+Marinus J.C. Eijkemans et al. (2014) Too old to have children? Lessons from natural fertility 
+populations. Human Reproduction, Volume 29, Issue 6, Pages 1304-1312 
+https://doi.org/10.1093/humrep/deu056 
+Livingston, Gretchen. (2019) Is U.S. fertility at an all-time low? Two of three measures point 
+to yes. Pew Research Center. https://www.pewresearch.org/short-reads/2019/05/22/u-s-
+fertility-rate-explained/ 
+February 12 (Thursday):  
+Lecture #1.8 – Family planning and “Unmet need” 
+Bongaarts, John (2014) The Impact of Family Planning Programs on Unmet Need and 
+Demand for Family Planning. Studies in Family Planning. Focus on pp. 247-252 
+
+---
+ 
+12
+Sedgh, Gilda, Lori Ashford, and Rubina Hussein. (2016) Reasons Women Cite for Not Using 
+Contraception. Unmet Need for Contraception in Developing Countries: Examining 
+Women’s Reasons for Not Using a Method. Pp. 26-30. 
+(Discussion Session):  
+Discuss lecture 1.7-1.8 
+ 
+February 17 (Tuesday):  
+Lecture #1.9 – How low is U.S. Fertility? 
+Gietel-Basten, Stuart. (2016) Why national fertility campaigns are unlikely to make people 
+have more children. The Conversation. 
+Hartnett, C.S. (2019) U.S. Fertility keeps dropping but that’s not a reason to panic. The 
+Conversation.  
+Hartnett, C.S. and Gemmil, A. (2020) Recent Trends in U.S. Childbearing Intentions. 
+Demography. 57(6) 2035-2045. 
+Feb 18 (Wednesday) – Writing Assignment #1 Due on Canvas, 11:59PM 
+ 
+PART TWO: POPULATION AGING AND HEALTH 
+ 
+February 19: (Thursday)  
+Lecture #2.1 – What is Life Expectancy, and what does it tell us about population health? 
+Eisenstein, Michael. (2022) Does human lifespan have a limit? Nature. 601:82-84. 
+Oeppen, J. and J. Vaupel. (2002) Broken limits to life expectancy. Science. 296: 1029-1031 
+ 
+(Discussion Session):  
+Discuss lectures 1.9-2.1  
+February 24 (Tuesday):  
+Lecture #2.2 – Is population aging a problem? 
+Scott, Andrew. (2018) The myth of the aging society. World Economic Forum 
+Rogerson, P. (2018) America’s graying population in 3 maps. The Conversation. May 23, 
+2018 
+ 
+
+---
+ 
+13
+February 26 (Thursday):  
+ 
+Lecture #2.3 – Life Expectancy and Social Policy 
+Case, A. and A. Deaton. (2021). Life expectancy in adulthood is falling for those without a BA 
+degree, but as educational gaps have widened, racial gaps have narrowed. PNAS 118(11) 
+e2024777118 (6 pages) 
+Why do Americans die earlier than Europeans? | Samuel Preston and Yana Vierboom | The 
+Guardian 
+ 
+(Discussion Session):  
+Discuss lectures 2.2-2.3, Exam Review 
+ 
+March 3 9:55-10:45 EXAM 1: Covers content (lectures, readings, discussion) from Part I and Part II 
+ 
+PART THREE: RACE AND HEALTH INEQUALITY 
+March 5 (Thursday): 
+Lecture #3.1 – How do Americans think about race? 
+Morning, Ann. (2017) “Kaleidoscope: contested identities and new forms of race 
+membership.” Ethnic and Racial Studies. (Focus on pp. 4-9, 13-15) 
+Did The U.S. White Population Decline And Shrink? It's Complicated : NPR 
+Vox. "The Myth of Race." 3 minute video. 
+PBS. “What are you” What I hear when you say video (6 minutes 39 seconds) 
+PBS. “Model minority” What I hear when you say video (7 minutes 7 seconds) 
+NY Times. “A Conversation with Native Americans about Race” video (6 minutes 23 
+seconds) 
+ 
+(Discussion Session):  
+Exam Review and Discuss lecture 3.1  
+ 
+March 10 (Tuesday): 
+Lecture #3.2 – How do social structures reproduce racial inequality? 
+
+---
+ 
+14
+Pager D, Shepherd H. The Sociology of Discrimination: Racial Discrimination in 
+Employment, Housing, Credit, and Consumer Markets. Annu Rev Sociol. 2008 Jan 1;34:181-
+209. doi: 10.1146/annurev.soc.33.040406.131740. PMID: 20689680; PMCID: PMC2915460. 
+March 12 (Thursday):  
+Lecture #3.3 – Why does residential segregation persist? 
+Joe LaBriola, Housing Market Appreciation and the White-Black Wealth Gap, Social 
+Problems, Volume 72, Issue 4, November 2025, Pages 1473–
+1491, https://doi.org/10.1093/socpro/spae030 Read the Abstract, Introduction, and 
+Conclusion 
+Adam Ruins Everything. “The Disturbing History of the Suburbs” video (6 minutes 19 
+seconds) 
+Barry-Jester, A. (2016). How Americans Die May Depend on Where They Live. 
+FiveThirtyEight 
+ 
+(Discussion Session):  
+Discuss lectures 3.2-3.3 
+ 
+March 17 (Tuesday):  
+Lecture #3.4 –How does mass incarceration contribute to inequality? 
+Petit, B. and C. Gutierrez. (2018) Mass incarceration and racial inequality. American Journal of 
+Economics and Sociology. 77(3-4): 1153-1182, focus on the 2nd-9th pages 
+The Atlantic. (2015) Mass Incarceration, Visualized. Video 
+March 19 (Thursday):  
+Lecture #3.5 – What do structural racism and discrimination have to do with health? 
+Phelan, J. C., & Link, B. G. (2015). Is Racism a Fundamental Cause of Inequalities in 
+Health? Annual Review of Sociology, 41(1), 311–330. 
+https://doi.org/10.1146/annurev-soc-073014-112305 
+(Discussion Session):  
+Discuss lectures 3.4-3.5  
+ 
+ 
+
+---
+ 
+15
+March 24 (Tuesday):  
+Lecture #3.6 – How do racial inequalities in health operate across the life course? 
+Goosby, Bridget and Chelsea Heidbrink. (2013) The Transgenerational Consequences of 
+Discrimination on African-American Health Outcomes. Sociology Compass pp. 636-640 
+Geronimus, A.T., et al. (2016) “Weathering” and age patterns of allostatic load scores among 
+blacks and whites in the United States. AJPH 96(5): 826-833 
+March 25 (Wednesday) – Writing Assignment #2 Due on Canvas, 11:59PM 
+March 26 (Thursday):  
+Lecture #3.7 – How do interpersonal and institutional racism affect reproduction? 
+ 
+Roberts, Dorothy (2015) “Reproductive Justice, Not Just Rights.” Dissent. 62(4): 79-82 
+Claire Cain Miller. (2023) Childbirth Is Deadlier for Black Families Even When They’re Rich, 
+Expansive Study Finds. New York Times. February 12, 2023 
+ 
+(Discussion Session):  
+Discuss lectures 3.6-3.7  
+NO CLASS – SPRING BREAK 
+ 
+PART FOUR: MIGRATION 
+April 7 (Tuesday):  
+Lecture #4.1 – Why do people migrate? 
+Massey, D.S., J. Durand, and N. Malone. (2002) Beyond Smoke and Mirrors Ch 2 
+ 
+April 9 (Thursday):  
+Lecture #4.2 – How have ideas about race shaped immigration and the racialization of immigrants? 
+ 
+Vargas, Valle, and Dhuman. (2025) Unraveling Complexities of Latino Racialization. Annual 
+Review of Sociology. pp 1-5, 12-15 
+Brown, Hana E., Jennifer A. Jones, and Andrea Becker. 2018. “The Racialization of Latino 
+Immigrants in New Destinations: Criminality, Ascription, and Countermobilization.” RSF: The 
+Russell Sage Foundation Journal of the Social Sciences 4(5): 118–40. DOI: 
+10.7758/RSF.2018.4.5.06.  
+(Discussion Session):  
+Discuss lecture 4.1 – 4.2 
+ 
+ 
+
+---
+ 
+16
+April 14 (Tuesday):  
+Lecture #4.3 – Theories of immigrant incorporation  
+Zhou, Min and Roberto Gonzales (2019) Divergent Destinies: Children of Immigrants 
+Growing Up in the United States. Annual Review of Sociology. Pp. 383-389 
+April 16 (Thursday):  
+Lecture #4.4 – How is the composition of America changing? 
+Lichter, D. T., & Johnson, K. M. (2020). A Demographic Lifeline? Immigration and Hispanic 
+Population Growth in Rural America. Population Research and Policy Review, 1-19. 
+Zhou, Min and Roberto Gonzales (2019) Divergent Destinies: Children of Immigrants 
+Growing Up in the United States. Annual Review of Sociology pp. 390-395. 
+ 
+Discuss lecture 4.3 - 4.5 
+ 
+April 21 (Tuesday):  
+Lecture #4.3 – Immigration Policy in 2026   
+http://res.dallasnews.com/interactives/migrantroute/  
+Readings TBD 
+ 
+April 23 (Thursday): NO CLASS  
+ 
+ 
+April 28 (Tuesday): 
+Exam Review 
+ 
+April 30 9:55-10:45 – EXAM 2: Covers content (lectures, readings, discussion) from Part III and IV 
+ 
+
+---
